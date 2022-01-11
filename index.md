@@ -2,10 +2,10 @@
 
 ---
 
-### MSc Capstone Project
+### MSc Capstone Project: 
 
-[Project 1 Title](/sample_page)
-<img src="images/BOTH.jpg?raw=true"/>
+[Network Visualisations of the US Stock Market before, during, and after the COVID-19 outbreak](/sample_page)
+<img src="images/BOTH_eb_sector_VERTICAL.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
